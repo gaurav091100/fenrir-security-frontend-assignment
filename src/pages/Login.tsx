@@ -1,8 +1,8 @@
 import LoginForm from "@/components/auth/LoginForm";
 import { Check } from "lucide-react";
-import appleIcon from "../../public/apple-icon.svg";
-import googleIcon from "../../public/google-icon.svg";
-import metaIcon from "../../public/meta-icon.svg";
+import appleIcon from "../assets/apple-icon.svg";
+import googleIcon from "../assets/google-icon.svg";
+import metaIcon from "../assets/meta-icon.svg";
 import { useNavigate } from "react-router-dom";
 const Login = () => {
   const navigate = useNavigate();
