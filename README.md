@@ -1,19 +1,19 @@
-🚀 Live Demo
+# 🚀 Live Demo
 
 🔗 Live URL: https://fenrir-security-frontend-assignment.netlify.app/
 
-#Fenrir Security — Frontend Design Challenge
+# Fenrir Security — Frontend Design Challenge
 
 This project recreates three interconnected product screens with full dark/light mode support, responsive behavior, and interactive components using modern React best practices.
 
-#📌 Objective
+# 📌 Objective
 
 - Recreate three screens from a SaaS security platform:
 - Login / Sign-up Screen
 - Dashboard (Scan List Overview)
 - Active Scan Detail (Live Console + Finding Log)
 
-#🧱 Tech Stack
+# 🧱 Tech Stack
 
 - Framework: React
 - Build Tool: Vite
@@ -23,7 +23,7 @@ This project recreates three interconnected product screens with full dark/light
 - Deployment: Netlify / Vercel
 
 
-#⚙️ Setup Instructions
+# ⚙️ Setup Instructions
 
 Clone the repository:
 `git clone https://github.com/gaurav091100/fenrir-security-frontend-assignment.git`
@@ -35,7 +35,7 @@ Install dependencies:
 Run development server:
 `npm run dev`
 
-# ScreenShots
+# Screenshots
 
 <img width="1913" height="905" alt="Screenshot 2026-03-04 033734" src="https://github.com/user-attachments/assets/c6456d61-8a08-4ef8-9f04-304ba9f442cf" />
 
